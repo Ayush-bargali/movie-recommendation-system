@@ -3,7 +3,9 @@
 Welcome to the **Movie Recommendation System** – a content-based filtering web app that suggests movies similar to your favorites. Built with **Python**, **Streamlit**, and **Jupyter Notebook**, this project is designed to enhance your movie-watching experience using data-driven recommendations.
 
 ## 👨‍💻 Author
+
 **Ayush Bargali**  
+
 **Ayush Bhatt**
 
 **Anil Mishra**

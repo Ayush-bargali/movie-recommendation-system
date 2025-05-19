@@ -4,6 +4,7 @@ Welcome to the **Movie Recommendation System** – a content-based filtering web
 
 ## 👨‍💻 Author
 **Ayush Bargali**  
+**Ayush Bhatt**
 B.Tech (2023–2027) | 
 
 
